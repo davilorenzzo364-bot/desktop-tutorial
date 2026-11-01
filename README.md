@@ -78,3 +78,6 @@ Forja IDE is an evolving project. New features, improvements, and bug fixes are 
 
 Contributions, suggestions, and bug reports are welcome.
 
+**Forja C++** is a lightweight, open-source IDE inspired by Visual Studio Code, built with C++ and Qt 6 for Windows 10 and Windows 11. It aims to provide a simple and efficient coding environment with syntax highlighting, file management, a dark theme, and support for running C, Java, Python, and Ruby programs using separately installed compilers and interpreters.
+
+The project is designed to be modular and extensible, with future plans for intelligent code completion, debugging tools, an integrated terminal, and additional developer features.
